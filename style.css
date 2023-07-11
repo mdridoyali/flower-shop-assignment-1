@@ -273,7 +273,7 @@ body{
 
 
 .buy1-get1-section{
-padding: 100px;
+padding:40px 100px;
 border-radius: 10px;
 background: rgba(39, 39, 39, 0.05);
 margin-top: 80px;
@@ -284,7 +284,7 @@ margin-top: 80px;
     display: flex;
     align-items: center;
     position:sticky;
-    left: 580px;
+    left: 540px;
 
 
 }
